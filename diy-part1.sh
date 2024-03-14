@@ -17,3 +17,4 @@ echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.defa
 ./scripts/feeds install -d y -p istore luci-app-store
 ./scripts/feeds update -a
 ./scripts/feeds install -a
+
