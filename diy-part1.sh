@@ -1,3 +1,4 @@
+cd iwrt
 git clone https://github.com/pymumu/openwrt-smartdns feeds/packages/custom/smartdns
 git clone https://github.com/pymumu/luci-app-smartdns -b master feeds/packages/custom/luci-app-smartdns
 git clone https://github.com/xiaorouji/openwrt-passwall -b main feeds/packagescustom/luci-app-passwall
